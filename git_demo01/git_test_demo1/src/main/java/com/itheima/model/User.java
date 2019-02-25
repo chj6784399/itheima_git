@@ -9,5 +9,7 @@ package com.itheima.model;
 public class User {
 
     private Integer id;
+    private String username;
+
 
 }
