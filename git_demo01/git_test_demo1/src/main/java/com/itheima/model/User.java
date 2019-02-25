@@ -7,4 +7,7 @@ package com.itheima.model;
  * @Modified By:
  */
 public class User {
+
+    private Integer id;
+
 }
